@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarveshSS69
-- 👀 I’m interested in ...
-- 🌱 I have Completed My Bsc I.T
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I am an MCA Student
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 69.cidkagenou@gmail.com
 
 <!---
