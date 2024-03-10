@@ -1,4 +1,4 @@
-- ![gojo](https://github.com/SarveshSS69/SarveshSS69/assets/98634138/29937fd5-0c1a-45c7-9bd3-ad69801d9f74)
+![gojo](https://github.com/SarveshSS69/SarveshSS69/assets/98634138/29937fd5-0c1a-45c7-9bd3-ad69801d9f74)
 
 
 # **I'm Sarvesh Sonawane**
