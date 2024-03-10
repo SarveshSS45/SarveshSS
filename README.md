@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I am an MCA Student
 - 🔗 Linkedin - https://www.linkedin.com/in/sarvesh-sonawane-hesvras/
-- 📫 How to reach me 69.cidkagenou@gmail.com
+- 📫 How to reach me sonawanesarvesh2@gmail.com
 
 <!---
 SarveshSS69/SarveshSS69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
