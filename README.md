@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarveshSS69
 
 
-![Alt Text](gojo.gif)
+- ![gojo](https://github.com/SarveshSS69/SarveshSS69/assets/98634138/29937fd5-0c1a-45c7-9bd3-ad69801d9f74)
 
 
 
