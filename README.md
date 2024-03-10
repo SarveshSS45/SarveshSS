@@ -2,7 +2,7 @@
 
 
 # **I'm Sarvesh Sonawane**
-## **👀 I’m interested in Web Development**
+-👀 I’m interested in Web Development
 - 🌱 I am an MCA Student
 - 🔗 Linkedin - https://www.linkedin.com/in/sarvesh-sonawane-hesvras/
 - 📫 How to reach me sonawanesarvesh2@gmail.com
