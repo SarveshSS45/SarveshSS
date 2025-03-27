@@ -1,8 +1,10 @@
-![gojo](https://github.com/SarveshSS69/SarveshSS69/assets/98634138/29937fd5-0c1a-45c7-9bd3-ad69801d9f74)
+
 
 
 <h1 align="center">Hi 👋, I'm Sarvesh Sonawane</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
+![gojo](https://github.com/SarveshSS69/SarveshSS69/assets/98634138/29937fd5-0c1a-45c7-9bd3-ad69801d9f74)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshss69&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshss69" /> </p>
 <p align="left">- 👀 I'm MCA Student</p>
